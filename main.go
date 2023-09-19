@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-    examples.ExecuteExample01()
+    examples.ExecuteExample02()
 }
